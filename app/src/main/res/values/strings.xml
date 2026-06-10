@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Vélib\'</string>
+    <string name="nav_map">Carte</string>
+    <string name="nav_nearby">Proximité</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="search_hint">Rechercher une station…</string>
+    <string name="radius_label">Rayon : %dm</string>
+    <string name="no_stations_nearby">Aucune station à proximité</string>
+    <string name="no_favorites">Aucune station en favori</string>
+    <string name="mes_favoris">Mes Favoris</string>
+    <string name="bikes_available">Vélos disponibles</string>
+    <string name="docks_available">Places disponibles</string>
+    <string name="mechanical">Mécaniques</string>
+    <string name="ebike">Électriques</string>
+    <string name="capacity">Capacité</string>
+    <string name="status">Statut</string>
+    <string name="last_updated">Mis à jour</string>
+    <string name="in_service">En service</string>
+    <string name="no_renting">Location indisponible</string>
+    <string name="out_of_service">Hors service</string>
+    <string name="add_favorite">Ajouter aux favoris</string>
+    <string name="remove_favorite">Retirer des favoris</string>
+    <string name="location_denied">Permission de localisation refusée</string>
+    <string name="location_unavailable">Position non disponible</string>
+    <string name="loading_error">Erreur de chargement : %s</string>
+    <string name="offline_data">Données hors ligne (peuvent ne pas être à jour)</string>
+    <string name="filter_all">Tous</string>
+    <string name="filter_mechanical">Mécaniques</string>
+    <string name="filter_ebike">Électriques</string>
+</resources>
